@@ -8,5 +8,6 @@ void main(){
 	printf("Sum grade: 190 \n");
 	printf("Average grade: 95 \n");
 	printf("push push baby:person1\n");
+	printf("push push baby:person2\n");
 }
 
